@@ -78,7 +78,7 @@ Travis
 
 
 
-Travis
+Enviando o projeto para o GitHub e acompanhando o Build
 ---------
 01 - Veja quais o status do seu repositório:
 * $ git status
@@ -100,3 +100,16 @@ Travis
 
 04 - Envie as alterações do seu projeto para o seu repositório no GitHub:
 * $ git push origin master
+
+
+
+
+05 - Observe o Travis funcionar =)
+
+
+
+Fontes
+---------
+[GitHub](https://help.github.com/articles/generating-ssh-keys/#step-4-add-your-ssh-key-to-your-account)
+[Travis](http://docs.travis-ci.com/user/build-configuration/#The-Build-Matrix)
+
