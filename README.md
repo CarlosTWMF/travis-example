@@ -1,2 +1,1 @@
-# travis-example
-Integração Contínua com Travis - Projeto Integrador
+# Integração Contínua com Travis - Projeto Integrador
